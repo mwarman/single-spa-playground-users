@@ -1,5 +1,18 @@
 {
   "name": "@leanstacks/users",
+  "description": "Single SPA playground project. The users application module.",
+  "keywords": [
+    "typescript",
+    "spa",
+    "react"
+  ],
+  "author": "Matthew Warman",
+  "license": "MIT",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwarman/single-spa-playground-users"
+  },
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
